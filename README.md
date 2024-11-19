@@ -1,6 +1,6 @@
 # Beauty Salon Website
 
-A responsive website for a beauty salon, designed using a desktop layout. You can explore the live demo [here on Netlify](https://).
+A responsive website for a beauty salon, designed using a desktop layout. You can explore the live demo [here on Netlify](https://salon-of-beauty.netlify.app/).
 
 ### Pages
 
